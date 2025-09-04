@@ -12,8 +12,8 @@
 
 ## 🚀 About Me
 
-```javascript
-const novil = {
+```python
+novil = {
     name: "Moh. Novil Ma'arij",
     education: "Informatics Engineering Student",
     university: "Universitas Negeri Surabaya",
@@ -24,6 +24,8 @@ const novil = {
     funFact: "I love turning ideas into code! ✨"
 };
 ```
+
+
 
 ## 🎓 Education & Programs
 
