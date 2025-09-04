@@ -17,7 +17,7 @@ const novil = {
     name: "Moh. Novil Ma'arij",
     education: "Informatics Engineering Student",
     university: "Universitas Negeri Surabaya",
-    program: "Bangkit Academy 2024",
+    program: "Bangkit Academy 2024, Coding Camp by DBS Foundation 2024",
     location: "Surabaya, Indonesia",
     interests: ["Software Development", "Machine Learning", "Mobile Development"],
     currentlyLearning: ["Android Development", "Cloud Computing", "AI/ML"],
