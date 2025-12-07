@@ -35,6 +35,8 @@ novil = {
 |-------------|---------|---------|
 | ![UNESA](https://img.shields.io/badge/UNESA-Informatics%20Engineering-blue?style=flat-square&logo=university) | S1 Teknik Informatika | 🎓 Student |
 | ![Bangkit](https://img.shields.io/badge/Bangkit-Academy%202024-orange?style=flat-square&logo=google) | Mobile Development | 📚 Learning |
+| ![DBS Foundation](https://img.shields.io/badge/Coding%20Camp-DBS%20Foundation%202025-red?style=flat-square&logo=python) | Machine Learning Path | 🧠 Graduate |
+
 
 </div>
 
